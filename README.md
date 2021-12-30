@@ -1,2 +1,2 @@
 # 8rentS.github.io
- 8rent's Github pages site
+  Github pages site @ 8rents.github.io
