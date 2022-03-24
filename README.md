@@ -1,6 +1,6 @@
 # 8rentS.github.io
 
-This is my index for all of my GitHub documentation
+*This is my index for all of my GitHub documentation*
 
 ## Articles / Guides
 
