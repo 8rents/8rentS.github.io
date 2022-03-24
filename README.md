@@ -23,6 +23,3 @@ Projects & repositories documentation
 ## Extra
 
 - The [source code for this website](https://github.com/8rentS/8rentS.github.io)
-
-
-
