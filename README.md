@@ -1,13 +1,13 @@
-
-
-
-# ![8rents Jimi Logo](https://raw.githubusercontent.com/8rents/8rentS.github.io/img/Jimi-head-50.png) [8rent's GitHub](https://github.com/8rentS) Documentation
+# ![8rentS Logo](https://raw.githubusercontent.com/8rents/_/i/jimi.png) [8rent's GitHub](https://github.com/8rentS) Documentation
 
  *All of [8rent's GitHub](https://github.com/8rentS) Documentation compiled neatly on this GitHub Pages Site*
 
 ## Articles / Guides
 
 > #### *Ideas and articles I've written and published on GitHub*
+
+1. ### [Ephemeral Computing](#)
+   How to effectively leave a digital footprint and use a sophisticated toolset without owning a digital device or treating each one in your possession as extremely temporary. Since this is using Github as the main development tool, the `live` branch will be pushed automatically when it's merged from `dev` 
 
 ## Configuration / Packages
 
@@ -21,9 +21,10 @@
 
 > #### *Nifty other project files that may be of some use*
 
-- ### [_ GitHub Media/Images Hosting Repository](_)
-    Repository used to host & hot link media / image files on the web
+- ### [GitHub Media/Images Hosting Repository](/_)
+    **UNDERSCORE REPO**
+    This repository is used to host & hot link media / image files on the web
 
-- ### [GitHub Pages Source](https://github.com/8rentS/8rentS.github.io)
+- ### [GitHub Pages Source](https://8rents.github.io/8rentS.github.io)
     The source code for this GitHub pages Site
 
