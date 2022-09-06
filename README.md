@@ -1,7 +1,4 @@
-
-
-
-# ![8rents Jimi Logo](https://raw.githubusercontent.com/8rents/8rentS.github.io/img/Jimi-head-50.png) [8rent's GitHub](https://github.com/8rentS) Documentation
+# ![8rents Jimi Logo](https://raw.githubusercontent.com/8rents/_/jimi.png) [8rent's GitHub](https://github.com/8rentS) Documentation
 
  *All of [8rent's GitHub](https://github.com/8rentS) Documentation compiled neatly on this GitHub Pages Site*
 
