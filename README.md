@@ -19,7 +19,6 @@
 > #### *Projects & repositories documentation*
 1. ### [brenton.holiday](brenton.holiday/)
     __brenton.holiday website__    
-    
     The [brenton.holiday](#) website is a host and tutorial for building your own web services. It will handle everything from setting up a VPN to managing an XMPP server.   
     
     This is the code base for the [brenton.holiday](#) website. __Please note: the website is not yet up or registered__. This is just a place holder for it. 
