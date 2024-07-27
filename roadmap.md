@@ -1,6 +1,6 @@
-# 8rents.github.io
+# ![8rentS Logo](https://raw.githubusercontent.com/8rents/_/i/h1/jimi.png) 8rents.github.io Development Roadmap
 
-> *My website [brenton.holiday](https:brenton.holiday) and hosted at [8rents.github.io](https://8rents.github.io)*
+> *The website [brenton.holiday](https:brenton.holiday) currently hosted on [8rents.github.io](https://8rents.github.io) during the first phase of development.*
 
 ---
 
