@@ -41,7 +41,7 @@ This branch contains the public exported files that will be seen on  `https://8r
 
 ### 4.  `brenton.holdiay` - Production Branch
 
-> This branch will begin to be used on `Phase 2` it is not implemented on phase 1.
+>  *This branch will begin to be used on `Phase 2` it is not implemented on phase 1.*
 
 This branch contains similar files to  `8rents.github.io` except when files are added to this branch they will be automatically pushed to the VPS hosting. 
 
@@ -51,6 +51,10 @@ This branch contains similar files to  `8rents.github.io` except when files are 
 
 - Documentation
 - Development files / Code
+
+## 5. `blank` - Blank Branch
+
+`blank` is simply a blank branch. It is used a a template to create other branches. Within the blank branch, there is only a single empty `README.md` file. 
 
 ---
 
