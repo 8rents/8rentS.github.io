@@ -42,12 +42,12 @@
 
 - ### [GitHub Media/Images Hosting Repository](/_)
 
-  **UNDERSCORE repo**
+  **UNDERSCORE repo / _**
   This repository is used to host & hot link media / image files on the web
 
 - ### [GitHub Pages Source](https://8rents.github.io/8rentS.github.io)
 
-  The source code for this GitHub pages Site
+  The source code for this GitHub pages Site that is currently being hosted on `github.io`
 
 ---
 
