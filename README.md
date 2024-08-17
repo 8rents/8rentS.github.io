@@ -1,60 +1,46 @@
-# ![8rentS Logo](https://raw.githubusercontent.com/8rents/_/i/h1/jimi.png) 8rents.github.io information page
+# ![8rentS Logo](https://raw.githubusercontent.com/8rents/_/i/h1/jimi.png) 8rents.github.io
 
-> *This is the **`Development Branch`** 8rents.github.io*. 
+> *This is the repo that handles hosting for brenton.holiday.*
 >
-> This branch contains all the development code for the website [*brenton.holiday*](https://brenton.holiday/) which during `Phase 1` is hosted on *GitHub Pages*.
+> *This is the `docs` branch. There are no deployed files on this branch, only documentation.* 
 
 ---
 
-This document provides 
+This repository provides hosting for `brenton.holiday` on the GitHub pages platform.
 
-## Branches Overview
+The site is deployed to GitHub Pages on the `live` branch.
 
-### 1. `info` - Information
+## Development Roadmap
 
-This branch contains documentation and the overview of the repository. 
+The goal is to get a website and web develpment workflow set up quickly.
 
-**What this branch does not contain:**
+### `v1` - Basic website hosted at [brenton.holiday](https://brenton.holiday)
 
-- Development files / Code
-- Production build files
+The first version of the website should consist of just a simple page of links. The page will be hosted at 8rents.github.io.
 
-### 2. `dev` - Development
+- **v1.0** - A simple un-themed page with links
+- **v1.1** - A crudely styled page
+- **v1.2** - A basic node build process. Port and update [Puddletown Bootstrap](https://github.com/PuddletownDesign/puddletown-bootstrap)
 
-This branch contains the development files
+### `v2` - Hosted on my own VPS
 
-**What this branch does not contain:**
+I will retire the [8rents.github.io](https://8rents.github.io) and begin hosting the site on my own VPS.
 
-- Documentation
-- Production build files / Exported Code
+## Hosting & Backend Roadmap
 
-### 3. `8rents.github.io` - Production Branch
+Here is the basic outline for how the development of this site will progress.
 
-> *Only for hosting on [https://8rents.github.io](8rents.github.io)*
+### Phase `1`
 
-This branch contains the public exported files that will be seen on  `https://8rents.github.io` & `https://brenton.holiday`. The Finalized files are pushed to this branch and from there they are displayed on the website.
+Site will be hosted on GitHub pages with the domain forwarded to `brenton.holiday`.
 
-**What this branch does not contain:**
+## Phase `2`
 
-- Documentation
-- Development files / Code
+Phase 2 will focus more on backend development and will use either a VPS or Heroku.
 
-### 4.  `brenton.holdiay` - Production Branch
+## Phase `3`
 
->  *This branch will begin to be used on `Phase 2` it is not implemented on phase 1.*
-
-This branch contains similar files to  `8rents.github.io` except when files are added to this branch they will be automatically pushed to the VPS hosting. 
-
-*Using a separate branch will allow us to keep an active backup and record of the first phases work.* 
-
-**What this branch does not contain:**
-
-- Documentation
-- Development files / Code
-
-## 5. `blank` - Blank Branch
-
-`blank` is simply a blank branch. It is used a a template to create other branches. Within the blank branch, there is only a single empty `README.md` file. 
+The final phase will focus on modular builds and quick deployments using `docker-compose` and git and shell script deployments.
 
 ---
 
