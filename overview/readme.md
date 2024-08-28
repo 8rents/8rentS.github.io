@@ -1,12 +1,14 @@
-# ![8rentS Logo](https://raw.githubusercontent.com/8rents/_/i/h1/jimi.png) [8rent's GitHub Repositories](https://github.com/8rentS)
+# ![8rentS Logo](https://raw.githubusercontent.com/8rents/_/i/h1/jimi.png) 8rents Repository Overview
 
-> *The following is a comprehensive overview of all of the public repositories on [8rents](https://github.com/8rentS) [GitHub account](https://github.com/8rents?tab=repositories).*
+[Home](https://github.com/8rents/8rentS.github.io/tree/docs) **|** [Project Roadmap](https://github.com/8rents/8rentS.github.io/tree/docs/roadmap) **|** **Repository Overview** 
 
 ---
 
-## Documentation
+>  *The following is a comprehensive overview of all of the public repositories on [8rents](https://github.com/8rentS) [GitHub account](https://github.com/8rents?tab=repositories).*
 
- *All of [8rent's GitHub](https://github.com/8rentS) Documentation compiled neatly on this GitHub Pages Site*
+---
+
+*All of [8rent's GitHub](https://github.com/8rentS) Documentation compiled neatly on this GitHub Pages Site*
 
 ## Articles / Guides
 

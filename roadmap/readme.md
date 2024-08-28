@@ -1,10 +1,12 @@
 # ![8rentS Logo](https://raw.githubusercontent.com/8rents/_/i/h1/jimi.png) 8rents.github.io Development Roadmap
 
-> *The website [brenton.holiday](https:brenton.holiday) currently hosted on [8rents.github.io](https://8rents.github.io) during the first phase of development.*
+[Home](https://github.com/8rents/8rentS.github.io/tree/docs) **|** **Project Roadmap** **|** [Repository Overview](https://github.com/8rents/8rentS.github.io/tree/docs/overview)
 
 ---
 
-## Development Roadmap
+> *The website [brenton.holiday](https:brenton.holiday) currently hosted on [8rents.github.io](https://8rents.github.io) during the first phase of development.*
+
+---
 
 The goal is to get a website and web develpment workflow set up quickly.
 
